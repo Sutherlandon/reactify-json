@@ -1,4 +1,4 @@
-# Reactify JSON Example
+# Reactify JSON Project
 
 This is an example project that implements the library `reactify-json` that allows you to build React components with JSON.
 
